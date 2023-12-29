@@ -2,9 +2,6 @@
 
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
 
-## Screenshots
-
-
 ## About
 
 This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js) stack to provide a seamless and interactive experience for visualizing and analyzing data from our website. The visualizations are powered by the Chart.js library, enhancing our ability to understand trends and patterns within the data.
